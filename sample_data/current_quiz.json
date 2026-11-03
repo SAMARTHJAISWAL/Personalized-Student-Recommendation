@@ -1,0 +1,83 @@
+{
+  "quiz": {
+    "id": 1,
+    "title": "Structural Organisation (sample)",
+    "topic": "Structural Organisation in Animals",
+    "difficulty_level": null,
+    "questions_count": 4,
+    "questions": [
+      {
+        "id": 1,
+        "description": "Sample question 1",
+        "topic": "structural organisation in animals",
+        "difficulty_level": null,
+        "options": [
+          {
+            "id": 11,
+            "description": "A",
+            "is_correct": true
+          },
+          {
+            "id": 12,
+            "description": "B",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "description": "Sample question 2",
+        "topic": "structural organisation in animals",
+        "difficulty_level": null,
+        "options": [
+          {
+            "id": 21,
+            "description": "A",
+            "is_correct": true
+          },
+          {
+            "id": 22,
+            "description": "B",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "description": "Sample question 3",
+        "topic": "structural organisation in animals",
+        "difficulty_level": null,
+        "options": [
+          {
+            "id": 31,
+            "description": "A",
+            "is_correct": true
+          },
+          {
+            "id": 32,
+            "description": "B",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "description": "Sample question 4",
+        "topic": "structural organisation in animals",
+        "difficulty_level": null,
+        "options": [
+          {
+            "id": 41,
+            "description": "A",
+            "is_correct": true
+          },
+          {
+            "id": 42,
+            "description": "B",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

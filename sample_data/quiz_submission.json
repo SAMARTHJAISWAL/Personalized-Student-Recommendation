@@ -1,0 +1,18 @@
+{
+  "id": 99,
+  "quiz": {
+    "title": "Structural Organisation (sample)",
+    "topic": "Structural Organisation in Animals",
+    "difficulty_level": null,
+    "questions_count": 4
+  },
+  "score": 7,
+  "correct_answers": 2,
+  "incorrect_answers": 1,
+  "accuracy": "66.67 %",
+  "response_map": {
+    "1": 11,
+    "2": 22,
+    "3": 31
+  }
+}

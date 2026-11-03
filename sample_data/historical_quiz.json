@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "quiz": {
+      "title": "Structural Organisation in Animals practice 1",
+      "topic": "Structural Organisation in Animals",
+      "difficulty_level": null,
+      "questions_count": 20
+    },
+    "score": 40,
+    "correct_answers": 12,
+    "incorrect_answers": 8,
+    "accuracy": "62 %"
+  },
+  {
+    "id": 2,
+    "quiz": {
+      "title": "Structural Organisation in Animals practice 2",
+      "topic": "Structural Organisation in Animals",
+      "difficulty_level": null,
+      "questions_count": 20
+    },
+    "score": 50,
+    "correct_answers": 14,
+    "incorrect_answers": 6,
+    "accuracy": "70 %"
+  },
+  {
+    "id": 3,
+    "quiz": {
+      "title": "Human Physiology practice 3",
+      "topic": "Human Physiology",
+      "difficulty_level": "medium",
+      "questions_count": 20
+    },
+    "score": 20,
+    "correct_answers": 8,
+    "incorrect_answers": 12,
+    "accuracy": "38 %"
+  },
+  {
+    "id": 4,
+    "quiz": {
+      "title": "Human Physiology practice 4",
+      "topic": "Human Physiology",
+      "difficulty_level": "medium",
+      "questions_count": 20
+    },
+    "score": 25,
+    "correct_answers": 9,
+    "incorrect_answers": 11,
+    "accuracy": "45 %"
+  },
+  {
+    "id": 5,
+    "quiz": {
+      "title": "Body Fluids and Circulation practice 5",
+      "topic": "Body Fluids and Circulation",
+      "difficulty_level": "easy",
+      "questions_count": 20
+    },
+    "score": 70,
+    "correct_answers": 18,
+    "incorrect_answers": 2,
+    "accuracy": "88 %"
+  },
+  {
+    "id": 6,
+    "quiz": {
+      "title": "Body Fluids and Circulation practice 6",
+      "topic": "Body Fluids and Circulation",
+      "difficulty_level": "easy",
+      "questions_count": 20
+    },
+    "score": 70,
+    "correct_answers": 18,
+    "incorrect_answers": 2,
+    "accuracy": "92 %"
+  },
+  {
+    "id": 7,
+    "quiz": {
+      "title": "Respiration and Gas Exchange practice 7",
+      "topic": "Respiration and Gas Exchange",
+      "difficulty_level": "hard",
+      "questions_count": 20
+    },
+    "score": 35,
+    "correct_answers": 11,
+    "incorrect_answers": 9,
+    "accuracy": "55 %"
+  },
+  {
+    "id": 8,
+    "quiz": {
+      "title": "Reproductive Health practice 8",
+      "topic": "Reproductive Health",
+      "difficulty_level": null,
+      "questions_count": 20
+    },
+    "score": 60,
+    "correct_answers": 16,
+    "incorrect_answers": 4,
+    "accuracy": "81 %"
+  }
+]
